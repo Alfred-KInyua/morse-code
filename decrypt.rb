@@ -1,4 +1,5 @@
-def characterDecoding(char)
+def
+    dcd(char)
   dictionary = {
     '.-' => 'A',
     '-...' => 'B',
@@ -31,8 +32,8 @@ def characterDecoding(char)
   dictionary[char]
 end
 
-def demystify(strings)
-    itemsArr = strings.split
-    itemsArr.map { |sts| characterDecoding(sts).upcase }
-  end
-  puts demystify('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
+def mthd(str)
+  itemsarr = str.split
+  itemsarr.map { |sts| dcd(sts).upcase }
+end
+puts mthd('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
