@@ -30,3 +30,9 @@ def characterDecoding(char)
 
   dictionary[char]
 end
+
+def demystify(strings)
+    itemsArr = strings.split
+    itemsArr.map { |sts| characterDecoding(sts).upcase }
+  end
+  puts demystify('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
