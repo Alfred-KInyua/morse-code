@@ -39,20 +39,22 @@ To get a local copy up and running follow these simple example steps.
 
 
 
-## Author-1
+👤 **Author1**
 
-👤 **Jonathan Sivahera**
+👤 **Alfred-KInyua**
 
-- GitHub: [@jssol](https://github.com/jssol)
-- Twitter: [@jsivahera](https://twitter.com/jsivahera)
-- LinkedIn: [jsivahera](https://www.linkedin.com/in/jsivahera/)
+- GitHub: [@Alfred-KInyua](https://github.com/Alfred-KInyua)
+- Twitter: [@alfkinyua](https://twitter.com/alfkinyua)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alfred-kinyua/)
 
-## Author-2
 
-👤 **Samiullah Bahadur**
-- GitHub: [@ Bahadur](https://github.com/samiullahbahadur)
-- Twitter: [@Bahadur](https://twitter.com/Samiull88496331)
-- LinkedIn: [Bahadur](https://www.linkedin.com/in/jsivahera/)
+👤 **Author 2**
+
+👤 **Adebowale Adegboye**
+
+- GitHub: [@githubhandle](https://github.com/ademibowale)
+- Twitter: [@twitterhandle](https://twitter.com/Ademibowale1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adebowale-adegboye-143568221/) 
 
 
 
